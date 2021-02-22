@@ -1,6 +1,8 @@
 
 # ICRA2020-paper-list
- 
+
+This is modified from [PaoPaoRobot](https://github.com/PaoPaoRobot/ICRA2020-paper-list), Thanks for their great contributions for slam.
+
 Welcome to ICRA 2020, the 2020 IEEE International Conference on Robotics and Automation.
 
 ICRA is the largest robotics meeting in the world and is the flagship conference of the IEEE Robotics & Automation Society. It is thus our honor and pleasure to welcome you to this edition, although the current exceptional circumstances did not allow us to organize it with the glimpse and splendor that our wonderful robotics community deserves.
@@ -205,7 +207,7 @@ You could use [index.md](index.md) to look up the index of some paper.
 - Broadcast Your Weaknesses: Cooperative Active Pose-Graph SLAM for Multiple Robots
 - FlowFusion: Dynamic Dense RGB-D SLAM Based on Optical Flow
 - Efficient Algorithms for Maximum Consensus Robust Fitting (I)
- 
+
 - MulRan: Multimodal Range Dataset for Urban Place Recognition
 - GPO: Global Plane Optimization for Fast and Accurate Monocular SLAM Initialization
 - Large-Scale Volumetric Scene Reconstruction Using LiDAR
@@ -217,7 +219,7 @@ You could use [index.md](index.md) to look up the index of some paper.
 - DOOR-SLAM: Distributed, Online, and Outlier Resilient SLAM for Robotic Teams
 - Windowed Bundle Adjustment Framework for Unsupervised Learning of Monocular Depth Estimation with U-Net Extension and Clip Loss
 - StructVIO : Visual-Inertial Odometry with Structural Regularity of Man-Made Environments (I)
- 
+
 - Flow-Motion and Depth Network for Monocular Stereo and Beyond
 - Online LiDAR-SLAM for Legged Robots with Robust Registration and Deep-Learned Loop Closure
 - Hybrid Camera Pose Estimation with Online Partitioning for SLAM
@@ -276,7 +278,7 @@ You could use [index.md](index.md) to look up the index of some paper.
 - Adversarial Skill Networks: Unsupervised Robot Skill Learning from Video
 - Event-Based Angular Velocity Regression with Spiking Networks
 - Visual Odometry Revisited: What Should Be Learnt?
- 
+
 - 3D Scene Geometry-Aware Constraint for Camera Localization with Deep Learning
 - ACDER: Augmented Curiosity-Driven Experience Replay
 - TrueRMA: Learning Fast and Smooth Robot Trajectories with Recursive Midpoint Adaptations in Cartesian Space
@@ -296,20 +298,20 @@ You could use [index.md](index.md) to look up the index of some paper.
 - An Obstacle-Interaction Planning Method for Navigation of Actuated Vine Robots
 - A New Path Planning Architecture to Consider Motion Uncertainty in Natural Environment
 - Revisiting the Asymptotic Optimality of RRT*
- 
+
 - Sample Complexity of Probabilistic Roadmaps Via Epsilon Nets
 - Reinforcement Learning Based Manipulation Skill Transferring for Robot-Assisted Minimally Invasive Surgery
 - Safe Mission Planning under Dynamical Uncertainties
 - An Iterative Quadratic Method for General-Sum Differential Games with Feedback Linearizable Dynamics
 - Real-Time UAV Path Planning for Autonomous Urban Scene Reconstruction
 - A Fast Marching Gradient Sampling Strategy for Motion Planning Using an Informed Certificate Set
- 
- 
+
+
 - Privacy-Aware UAV Flights through Self-Configuring Motion Planning
 - Improved C-Space Exploration and Path Planning for Robotic Manipulators Using Distance Information
 - Tuning-Free Contact-Implicit Trajectory Optimization
 - PPCPP: A Predator�Prey-Based Approach to Adaptive Coverage Path Planning (I)
- 
+
 - Advanced BIT* (ABIT*): Sampling-Based Planning with Advanced Graph-Search Techniques
 - Voxel-Based General Voronoi Diagram for Complex Data with Application on Motion Planning
 - Dynamic Movement Primitives for Moving Goals with Temporal Scaling Adaptation
@@ -347,8 +349,8 @@ You could use [index.md](index.md) to look up the index of some paper.
 - The Tiercel: A Novel Autonomous Micro Aerial Vehicle That Can Map the Environment by Flying into Obstacles
 - Full-Pose Manipulation Control of a Cable-Suspended Load with Multiple UAVs under Uncertainties
 - Learning Pugachev's Cobra Maneuver for Tail-Sitter UAVs Using Acceleration Model
- 
- 
+
+
 - Adaptive Control of Variable-Pitch Propellers: Pursuing Minimum-Effort Operation
 - Design and Control of a Variable Aerial Cable Towed System
 - Novel Model-Based Control Mixing Strategy for a Coaxial Push-Pull Multirotor
@@ -379,8 +381,8 @@ You could use [index.md](index.md) to look up the index of some paper.
 - A*3D Dataset: Towards Autonomous Driving in Challenging Environments
 - SegVoxelNet: Exploring Semantic Context and Depth-Aware Features for 3D Vehicle Detection from Point Cloud
 - Fine-Grained Driving Behavior Prediction Via Context-Aware Multi-Task Inverse Reinforcement Learning
- 
- 
+
+
 - How to Keep HD Maps for Automated Driving up to Date
 - Binary DAD-Net: Binarized Driveable Area Detection Network for Autonomous Driving
 - Learning Robust Control Policies for End-To-End Autonomous Driving from Data-Driven Simulation
@@ -441,10 +443,10 @@ You could use [index.md](index.md) to look up the index of some paper.
 - A Fast and Practical Method of Indoor Localization for Resource-Constrained Devices with Limited Sensing
 - GN-Net: The Gauss-Newton Loss for Multi-Weather Relocalization
 - A Data-Driven Motion Prior for Continuous-Time Trajectory Estimation on SE(3)
- 
+
 - Estimation with Fast Feature Selection in Robot Visual Navigation
- 
- 
+
+
 - A Tightly Coupled VLC-Inertial Localization System by EKF
 - Localization of Inspection Device Along Belt Conveyors with Multiple Branches Using Deep Neural Networks
 - Localising PMDs through CNN Based Perception of Urban Streets
@@ -472,7 +474,7 @@ You could use [index.md](index.md) to look up the index of some paper.
 - Robot Programming without Coding
 - Learning Robust Task Priorities and Gains for Control of Redundant Robots
 - Planning with Uncertain Specifications (PUnS)
- 
+
 - Predictive Modeling of Periodic Behavior for Human-Robot Symbiotic Walking
 - Adaptive Curriculum Generation from Demonstrations for Sim-To-Real Visuomotor Control
 - Accept Synthetic Objects As Real: End-To-End Training of Attentive Deep Visuomotor Policies for Manipulation in Clutter
@@ -496,9 +498,9 @@ You could use [index.md](index.md) to look up the index of some paper.
 ## Medical Robots and Systems
 - Design of a Percutaneous MRI-Guided Needle Robot with Soft Fluid-Driven Actuator
 - SCADE: Simultaneous Sensor Calibration and Deformation Estimation of FBG-Equipped Unmodeled Continuum Manipulators (I)
- 
+
 - Novel Optimization-Based Design and Surgical Evaluation of a Treaded Robotic Capsule Colonoscope (I)
- 
+
 - Generative Localisation with Uncertainty Estimation through Video-CT Data for Bronchoscopic Biopsy
 - Internet of Things (IoT)-Based Collaborative Control of a Redundant Manipulator for Teleoperated Minimally Invasive Surgeries
 - Design and Prototyping of a Bio-Inspired Kinematic Sensing Suit for the Shoulder Joint: Precursor to a Multi-DoF Shoulder Exosuit
@@ -565,7 +567,7 @@ You could use [index.md](index.md) to look up the index of some paper.
 - An Augmented Kinematic Model for the Cartesian Control of the Hybrid Wheeled-Legged Quadrupedal Robot CENTAURO
 - Precision Robotic Leaping and Landing Using Stance-Phase Balance
 - STANCE: Locomotion Adaptation Over Soft Terrain (I)
- 
+
 - Rolling in the Deep - Hybrid Locomotion for Wheeled-Legged Robots Using Online Trajectory Optimization
 - Optimal Landing Strategy for Two-Mass Hopping Leg with Natural Dynamics
 - From Bipedal Walking to Quadrupedal Locomotion: Full-Body Dynamics Decomposition for Rapid Gait Generation
@@ -580,7 +582,7 @@ You could use [index.md](index.md) to look up the index of some paper.
 - Simultaneous Policy and Discrete Communication Learning for Multi-Agent Cooperation
 - Cooperative Team Strategies for Multi-Player Perimeter-Defense Games
 - Multirobot Symmetric Formations for Gradient and Hessian Estimation with Application to Source Seeking (I)
- 
+
 - Multi-Robot Path Deconfliction through Prioritization by Path Prospects
 - Cooperative Aerial-Ground Multi-Robot System for Automated Construction Tasks
 - A Connectivity-Prediction Algorithm and Its Application in Active Cooperative Localization for Multi-Robot Systems
@@ -600,8 +602,8 @@ You could use [index.md](index.md) to look up the index of some paper.
 - Monitoring Over the Long Term: Intermittent Deployment and Sensing Strategies for Multi-Robot Teams
 - Multi-Robot Coordination for Estimation and Coverage of Unknown Spatial Fields
 - Dense R-Robust Formations on Lattices
- 
- 
+
+
 - Optimizing Topologies for Probabilistically Secure Multi-Robot Systems
 - Efficient Communication in Large Multi-Robot Networks
 - CyPhyHouse: A Programming, Simulation, and Deployment Toolchain for Heterogeneous Distributed Coordination
@@ -609,7 +611,7 @@ You could use [index.md](index.md) to look up the index of some paper.
 - Optimal Topology Selection for Stable Coordination of Asymmetrically Interacting Multi-Robot Systems
 - Representing Multi-Robot Structure through Multimodal Graph Embedding for the Selection of Robot Teams
 - MAMS-A*: Multi-Agent Multi-Scale A*
- 
+
 - Connectivity Maintenance: Global and Optimized Approach through Control Barrier Functions
 - Controller Synthesis for Infinitesimally Shape-Similar Formations
 - A Distributed Source Term Estimation Algorithm for Multi-Robot Systems
@@ -667,7 +669,7 @@ You could use [index.md](index.md) to look up the index of some paper.
 - Cooperative Visual-Inertial Odometry: Analysis of Singularities, Degeneracies and Minimal Cases
 - A Lightweight and Accurate Localization Algorithm Using Multiple Inertial Measurement Units
 - Accelerating the Estimation of Metabolic Cost Using Signal Derivatives: Implications for Optimization and Evaluation of Wearable Robots (I)
- 
+
 - Deep Depth Fusion for Black, Transparent, Re&#64258;ective and Texture-Less Objects
 - LiDAR-Enhanced Structure-From-Motion
 - Low Latency and Low-Level Sensor Fusion for Automotive Use-Cases
@@ -675,7 +677,7 @@ You could use [index.md](index.md) to look up the index of some paper.
 - Robot-Assisted and Wearable Sensor-Mediated Autonomous Gait Analysis
 - Gaussian Process Preintegration for Inertial-Aided State Estimation
 - A Code for Unscented Kalman Filtering on Manifolds (UKF-M)
- 
+
 - Efficient and Precise Sensor Fusion for Non-Linear Systems with Out-Of-Sequence Measurements by Example of Mobile Robotics
 - UNO: Uncertainty-Aware Noisy-Or Multimodal Fusion for Unanticipated Input Degradation
 - Intermittent GPS-Aided VIO: Online Initialization and Calibration
@@ -690,13 +692,13 @@ You could use [index.md](index.md) to look up the index of some paper.
 
 ## Compliance and Impedance Control
 - Hierarchical Impedance-Based Tracking Control of Kinematically Redundant Robots (I)
- 
+
 - Position-Based Impedance Control of a 2-DOF Compliant Manipulator for a Facade Cleaning Operation
 - Robust, Locally Guided Peg-In-Hole with Impedance-Controlled Robots
 - Model-Free Friction Observers for Flexible Joint Robots with Torque Measurements (I)
- 
+
 - Necessary and Sufficient Conditions for the Passivity of Impedance Rendering with Velocity-Sourced Series Elastic Actuation (I)
- 
+
 - Design of Spatial Admittance for Force-Guided Assembly of Polyhedral Parts in Single Point Frictional Contact
 - Model Predictive Impedance Control
 - Kinematic Modeling and Compliance Modulation of Redundant Manipulators under Bracing Constraints
@@ -726,7 +728,7 @@ You could use [index.md](index.md) to look up the index of some paper.
 - A Proprioceptive Bellows (PB) Actuator with Position Feedback and Force Estimation
 -  Automatic Design of Soft Dielectric Elastomer Actuators with Optimal Spatial Electric Fields (I)
 - Stochastic Control for Orientation and Transportation of Microscopic Objects Using Multiple Optically Driven Robotic Fingertips (I)
- 
+
 - Soft Fingertips with Adaptive Sensing and Active Deformation for Robust Grasping of Delicate Objects
 - Sensorization of a Continuum Body Gripper for High Force and Delicate Object Grasping
 - Eye-In-Hand Visual Servoing Enhanced with Sparse Strain Measurement for Soft Continuum Robots
@@ -739,7 +741,7 @@ You could use [index.md](index.md) to look up the index of some paper.
 - A Pneumatic/Cable-Driven Hybrid Linear Actuator with Combined Structure of Origami Chambers and Deployable Mechanism
 - Simple, Low-Hysteresis, Foldable, Fabric Pneumatic Artificial Muscle
 - Flat Inflatable Artificial Muscles with Large Stroke and Adjustable Force-Length Relations (I)
- 
+
 - Joint Rotation Angle Sensing of Flexible Endoscopic Surgical Robots
 - Soft, Round, High Resolution Tactile Fingertip Sensors for Dexterous Robotic Manipulation
 - Creating a Soft Tactile Skin Employing Fluorescence Based Optical Sensing
@@ -789,7 +791,7 @@ You could use [index.md](index.md) to look up the index of some paper.
 -  A Stable Adaptive Observer for Hard-Iron and Soft-Iron Bias Calibration and Compensation for Two-Axis Magnetometers: Theory and Experimental Evaluation
 - Extrinsic Calibration of an Eye-In-Hand 2D LiDAR Sensor in Unstructured Environments Using ICP
 - Geometric Robot Dynamic Identification: A Convex Programming Approach (I)
- 
+
 - A Novel Calibration Method between a Camera and a 3D LiDAR with Infrared Images
 - Online Camera-LiDAR Calibration with Sensor Semantic Information
 - Precise 3D Calibration of Wafer Handling Robot by Visual Detection and Tracking of Elliptic-Shape Wafers
@@ -824,7 +826,7 @@ You could use [index.md](index.md) to look up the index of some paper.
 - Emulating Duration and Curvature of Coral Snake Anti-Predator Thrashing Behaviors Using a Soft-Robotic Platform
 - Directional Mechanical Impedance of the Human Ankle During Standing with Active Muscles
 - Insect�Computer Hybrid Robot Achieves a Walking Gait Rarely Seen in Nature by Replacing the Anisotropic Natural Leg Spines with Isotropic Artificial Leg Spines (I)
- 
+
  
 
 ## Robust/Adaptive Control of Robotic Systems
@@ -840,7 +842,7 @@ You could use [index.md](index.md) to look up the index of some paper.
 - Safe and Fast Tracking on a Robot Manipulator: Robust MPC and Neural Network Control
 - 3D Path-Following Using MRAC on a Millimeter-Scale Spiral-Type Magnetic Robot
 - Adaptive Model-Based Myoelectric Control for a Soft Wearable Arm Exosuit (I)
- 
+
 
 ## Space Robotics and Automation
 - Planetary Rover Exploration Combining Remote and in Situ Measurements for Active Spectroscopic Mapping
@@ -888,10 +890,10 @@ You could use [index.md](index.md) to look up the index of some paper.
 - Inferring the Geometric Nullspace of Robot Skills from Human Demonstrations
 - A Dynamical System Approach for Adaptive Grasping, Navigation and Co-Manipulation with Humanoid Robots
 - Humanoid Robots in Aircraft Manufacturing (I)
- 
- 
+
+
 - A Multi-Mode Teleoperation Framework for Humanoid Loco-Manipulation (I)
- 
+
 - Balance of Humanoid Robots in a Mix of Fixed and Sliding Multi-Contact Scenarios
 - Fast Whole-Body Motion Control of Humanoid Robots with Inertia Constraints
 - SL1M: Sparse L1-Norm Minimization for Contact Planning on Uneven Terrain
@@ -906,7 +908,7 @@ You could use [index.md](index.md) to look up the index of some paper.
 - Convex Controller Synthesis for Robot Contact
 - Force Adaptation in Contact Tasks with Dynamical Systems
 - Sensitivity Ellipsoids for Force Control of Magnetic Robots with Localization Uncertainty (I)
- 
+
 
 ## Semantic Scene Understanding
 - Highly Parallelizable Plane Extraction for Organized Point Clouds Using Spherical Convex Hulls
@@ -929,7 +931,7 @@ You could use [index.md](index.md) to look up the index of some paper.
 - Group Split and Merge Prediction with 3D Convolutional Networks
 - TH�R: Human-Robot Navigation Data Collection and Accurate Motion Trajectories Dataset
 - Socially Assistive Infant-Robot Interaction: Using Robots to Encourage Infant Leg-Motion (I)
- 
+
 - Real-Time Continuous Hand Motion Myoelectric Decoding by Automated Data Labeling
 - Towards Proactive Navigation: A Pedestrian-Vehicle Cooperation Based Behavioral Model
 - Studying Navigation As a Form of Interaction: A Design Approach for Social Robot Navigation Methods
@@ -940,7 +942,7 @@ You could use [index.md](index.md) to look up the index of some paper.
 ## Biologically-Inspired Robots
 - Coronal Plane Spine Twisting Composes Shape to Adjust the Energy Landscape for Grounded Reorientation
 - Significance of the Compliance of the Joints on the Dynamic Slip Resistance of a Bioinspired Hoof (I)
- 
+
 - Motion Design for a Snake Robot Negotiating Complicated Pipe Structures of a Constant Diameter
 - A Neuro-Inspired Computational Model for a Visually Guided Robotic Lamprey Using Frame and Event Based Cameras
 - Untethered Flight of an At-Scale Dual-Motor Hummingbird Robot with Bio-Inspired Decoupled Wings
@@ -955,8 +957,8 @@ You could use [index.md](index.md) to look up the index of some paper.
 ## Robotics in Agriculture, Construction and Mining
 - GPR-Based Subsurface Object Detection and Reconstruction Using Random Motion and DepthNet
 - A Data-Driven Approach to Prediction and Optimal Bucket-Filling Control for Autonomous Excavators
- 
- 
+
+
 - Real-Time Stereo Visual Servoing for Rose Pruning with Robotic Arm
 - Canopy-Based Monte Carlo Localization in Orchards Using Top-View Imagery
 - In-Field Grape Cluster Size Assessment for Vine Yield Estimation Using a Mobile Robot and a Consumer Level RGB-D Camera
@@ -969,7 +971,7 @@ You could use [index.md](index.md) to look up the index of some paper.
 - Inverse Kinematics for Serial Kinematic Chains Via Sum of Squares Optimization
 - Multi-Task Closed-Loop Inverse Kinematics Stability through Semidefinite Programming
 - Stable-By-Design Kinematic Control Based on Optimization (I)
- 
+
 
 ## Robot Safety
 - Securing Industrial Operators with Collaborative Robots: Simulation and Experimental Validation for a Carpentry Task
@@ -985,9 +987,9 @@ You could use [index.md](index.md) to look up the index of some paper.
 - Bayes Bots: Collective Bayesian Decision-Making in Decentralized Robot Swarms
 - Supervisory Control of Robot Swarms Using Public Events
 - Planetary Exploration with Robot Teams (I)
- 
+
 - Statistics-Based Automated Control for a Swarm of Paramagnetic Nanoparticles in 2D Space (I)
- 
+
 
 ## Simulation and Animation
 - Automatic Tool for Gazebo World Construction: From a Grayscale Image to a 3D Solid Model
@@ -1004,7 +1006,7 @@ You could use [index.md](index.md) to look up the index of some paper.
 - Robust Model-Free Reinforcement Learning with Multi-Objective Bayesian Optimization
 - Motor Synergy Development in High-Performing Deep Reinforcement Learning Algorithms
 - Barrier-Certified Adaptive Reinforcement Learning with Applications to Brushbot Navigation (I)
- 
+
 - On Simple Reactive Neural Networks for Behaviour-Based Reinforcement Learning
 - Predicting Optimal Value Functions by Interpolating Reward Functions in Scalarized Multi-Objective Reinforcement Learning
 - Integrated Moment-Based LGMD and Deep Reinforcement Learning for UAV Obstacle Avoidance
@@ -1025,17 +1027,17 @@ You could use [index.md](index.md) to look up the index of some paper.
 - Tethered Tool Manipulation Planning with Cable Maneuvering
 - Optimization-Based Posture Generation for Whole-Body Contact Motion by Contact Point Search on the Body Surface
 - Real-Time Conflict Resolution of Task-Constrained Manipulator Motion in Unforeseen Dynamic Environments (I)
- 
+
 
 ## Contact Modeling
 - Interaction Stability Analysis from the Input-Output Viewpoints
- 
- 
+
+
 - Improving the Contact Instant Detection of Sensing Antennae Using a Super-Twisting Algorithm
 - 6DFC: Efficiently Planning Soft Non-Planar Area Contact Grasps Using 6D Friction Cones
 - Long-Horizon Prediction and Uncertainty Propagation with Residual Point Contact Learners
- 
- 
+
+
 - Versatile Trajectory Optimization Using a LCP Wheel Model for Dynamic Vehicle Maneuvers
 - A Transition-Aware Method for the Simulation of Compliant Contact with Regularized Friction
 
@@ -1043,7 +1045,7 @@ You could use [index.md](index.md) to look up the index of some paper.
 - Single Actuator Peristaltic Robot for Subsurface Exploration and Device Emplacement
 - Improving Visual Feature Extraction in Glacial Environments
 - Unmanned Aerial Vehicle Based Hazardous Materials Response: Information-Theoretic Hazardous Source Search and Reconstruction (I)
- 
+
 - Planning Maximum-Manipulability Cutting Paths
 - Robot Risk-Awareness by Formal Risk Reasoning and Planning
 - Experimental Evaluation and Characterization of Radioactive Source Effects on Robot Visual Localization and Mapping
@@ -1054,9 +1056,9 @@ You could use [index.md](index.md) to look up the index of some paper.
 - MagNet: Discovering Multi-Agent Interaction Dynamics Using Neural Network
 - Modulation of Robot Orientation State Via Leg-Obstacle Contact Positions
 - Beyond Basins of Attraction: Quantifying Robustness of Natural Dynamics (I)
- 
+
 - Stable Parking Control of a Robot Astronaut in a Space Station Based on Human Dynamics (I)
- 
+
  
 
 ## Product Design, Development and Prototyping
@@ -1082,7 +1084,7 @@ You could use [index.md](index.md) to look up the index of some paper.
 - Quantifying Good Seamanship for Autonomous Surface Vessel Performance Evaluation
 - Action-Conditioned Benchmarking of Robotic Video Prediction Models: A Comparative Study
 - Performance Indicators for Wheeled Robots Traversing Obstacles
- 
+
  
 
 ## Aerial Systems: Applications
@@ -1101,8 +1103,8 @@ You could use [index.md](index.md) to look up the index of some paper.
 - Stable Control in Climbing and Descending Flight under Upper Walls Using Ceiling Effect Model Based on Aerodynamics
 - Motion Primitives-Based Path Planning for Fast and Agile Exploration Using Aerial Robots
 - Unsupervised Anomaly Detection for Self-Flying Delivery Drones
- 
- 
+
+
 - Keyfilter-Aware Real-Time UAV Object Tracking
 - Aerial Regrasping: Pivoting with Transformable Multilink Aerial Robot
 - Grounding Language to Landmarks in Arbitrary Outdoor Environments
@@ -1169,7 +1171,7 @@ You could use [index.md](index.md) to look up the index of some paper.
 - Cooperative Multi-Robot Navigation in Dynamic Environment with Deep Reinforcement Learning
 - Adaptive Directional Path Planner for Real-Time, Energy-Efficient, Robust Navigation of Mobile Robots
 - Distributed State Estimation Using Intermittently Connected Robot Networks (I)
- 
+
 
 ## Optimization and Optimal Control
 - Whole-Body Motion Tracking for a Quadruped-On-Wheel Robot Via a Compact-Form Controller with Improved Prioritized Optimization
@@ -1196,7 +1198,7 @@ You could use [index.md](index.md) to look up the index of some paper.
 - Wasserstein Distributionally Robust Motion Planning and Control with Safety Constraints Using Conditional Value-At-Risk
 - One Robot for Many Tasks: Versatile Co-Design through Stochastic Programming
 - Inverse Optimal Control for Multiphase Cost Functions (I)
- 
+
  
 
 ## Grasping
@@ -1230,8 +1232,8 @@ You could use [index.md](index.md) to look up the index of some paper.
 - FisheyeDistanceNet: Self-Supervised Scale-Aware Distance Estimation Using Monocular Fisheye Camera for Autonomous Driving
 - 360SD-Net: 360° Stereo Depth Estimation with Learnable Cost Volume
 - Omnidirectional Depth Extension Networks
- 
- 
+
+
 - 3D Orientation Estimation and Vanishing Point Extraction from Single Panoramas Using Convolutional Neural Network
 
 ## Force and Tactile Sensing
@@ -1291,8 +1293,8 @@ You could use [index.md](index.md) to look up the index of some paper.
 - Design of an Inflatable Wrinkle Actuator with Fast Inflation/Deflation Responses for Wearable Suits
 - Design and Validation of a Soft Ankle-Foot Orthosis Exosuit for Inversion and Eversion Support
 - Vine Robots: Design, Teleoperation, and Deployment for Navigation and Exploration (I)
- 
- 
+
+
 - Pressure-Driven Manipulator with Variable Stiffness Structure
 - 3D Electromagnetic Reconfiguration Enabled by Soft Continuum Robots
 - VaLeNS: Design of a Novel Variable Length Nested Soft Arm
@@ -1306,7 +1308,7 @@ You could use [index.md](index.md) to look up the index of some paper.
 - Backdrivable and Fully-Portable Pneumatic Back Support Exoskeleton for Lifting Assistance
 -  Clinical Readiness of a Myoelectric Postural Control Algorithm for Persons with Transradial Amputation (I)
 - Force Control of SEA-Based Exoskeletons for Multimode Human-Robot Interactions (I)
- 
+
 - Velocity Field Based Active-Assistive Control for Upper Limb Rehabilitation Exoskeleton Robot
 - Design, Development and Control of a Tendon-Actuated Exoskeleton for Wrist Rehabilitation and Training
 - Impedance Control of a Transfemoral Prosthesis Using Continuously Varying Ankle Impedances and Multiple Equilibria
@@ -1339,14 +1341,14 @@ You could use [index.md](index.md) to look up the index of some paper.
 - Microscope-Guided Autonomous Clear Corneal Incision
 - A Haptic Interface for the Teleoperation of Extensible Continuum Manipulators
 - From Crowd Simulation to Robot Navigation in Crowds
- 
- 
+
+
 - Are We There Yet? Comparing Remote Learning Technologies in the University Classroom
 - Bilateral Haptic Collaboration for Human-Robot Cooperative Tasks
 - A Surgeon-Robot Shared Control for Ergonomic Pedicle Screw Fixation
 - Improving Robotic Cooking Using Batch Bayesian Optimization
 - Adaptive Motion Planning for a Collaborative Robot Based on Prediction Uncertainty to Enhance Human Safety and Work Efficiency (I)
- 
+
 
 ## Mechanism Design
 - Quadrupedal Locomotion on Uneven Terrain with Sensorized Feet
@@ -1378,8 +1380,8 @@ You could use [index.md](index.md) to look up the index of some paper.
 - Bio-Inspired Tensegrity Fish Robot
 - A Hybrid Underwater Manipulator System with Intuitive Muscle-Level sEMG Mapping Control
 - Single-Hydrophone Low-Cost Underwater Vehicle Swarming
- 
- 
+
+
 - 2D Estimation of Velocity Relative to Water and Tidal Currents Based on Differential Pressure for Autonomous Underwater Vehicles
 - Multi-Sensor Mapping for Low Contrast, Quasi-Dynamic, Large Objects
 - Gaussian-Dirichlet Random Fields for Inference Over High Dimensional Categorical Observations
@@ -1404,7 +1406,7 @@ You could use [index.md](index.md) to look up the index of some paper.
 - A Minimally Actuated Reconfigurable Continuous Track Robot
 - Cooperative Mapping and Target Search Over an Unknown Occupancy Graph Using Mutual Information
 - Flexible Disaster Response of Tomorrow - Final Presentation and Evaluation of the CENTAURO System (I)
- 
+
 
 ## Human Detection and Tracking
 - Natural Scene Facial Expression Recognitionwith Dimension Reduction Network
@@ -1412,8 +1414,8 @@ You could use [index.md](index.md) to look up the index of some paper.
 - Accurate Detection and 3D Localization of Humans Using a Novel YOLO-Based RGB-D Fusion Approach and Synthetic Training Data
 - Pedestrian Planar LiDAR Pose (PPLP) Network for Oriented Pedestrian Detection Based on Planar LiDAR and Monocular Images
 - Wide-Range Load Sensor Using Vacuum Sealed Quartz Crystal Resonator for Simultaneous Biosignals Measurement on Bed
- 
- 
+
+
 - Joint Pedestrian Detection and Risk-Level Prediction with Motion-Representation-By-Detection
 
 ## Omnidirectional Vision and Audition
@@ -1426,7 +1428,7 @@ You could use [index.md](index.md) to look up the index of some paper.
 
 ## Hydraulic/Pneumatic Actuators
 - How Far Are Pneumatic Artificial Muscles from Biological Muscles?
- 
+
 - Optically Sensorized Elastomer Air Chamber for Proprioceptive Sensing of Soft Pneumatic Actuator
 - A Compact McKibben Muscle Based Bending Actuator for Close-To-Body Application in Assistive Wearable Robots
 - Proposal and Prototyping of Self-Excited Pneumatic Actuator Using Automatic-Flow-Path-Switching-Mechanism
@@ -1440,7 +1442,7 @@ You could use [index.md](index.md) to look up the index of some paper.
 - DirtNet: Visual Dirt Detection for Autonomous Cleaning Robots
 - Semantic Linking Maps for Active Visual Object Search
 - ALTER-EGO: A Mobile Robot with Functionally Anthropomorphic Upper Body Designed for Physical Interaction (I)
- 
+
 
 ## Robot Perception
 - Active Depth Estimation: Stability Analysis and Its Applications
@@ -1448,7 +1450,7 @@ You could use [index.md](index.md) to look up the index of some paper.
 - Multiple Sound Source Position Estimation by Drone Audition Based on Data Association between Sound Source Localization and Identification
 - Augmented LiDAR Simulator for Autonomous Driving
 - Purely Image-Based Pose Stabilization of Nonholonomic Mobile Robots with a Truly Uncalibrated Overhead Camera (I)
- 
+
 
 ## Distributed Robot Systems
 - Distributed Attack-Robust Submodular Maximization for Multi-Robot Planning
@@ -1520,9 +1522,9 @@ You could use [index.md](index.md) to look up the index of some paper.
 - A Dynamic Weighted Area Assignment Based on a Particle Filter for Active Cooperative Perception
 - Flying Batteries: In-Flight Battery Switching to Increase Multirotor Flight Time
 - Sensor Assignment Algorithms to Improve Observability While Tracking Targets (I)
- 
+
 - Coordinated Bayesian-Based Bioinspired Plume Source Term Estimation and Source Seeking for Mobile Robots (I)
- 
+
 
 ## RGB-D Perception
 - ClearGrasp: 3D Shape Estimation of Transparent Objects for Manipulation
@@ -1547,7 +1549,7 @@ You could use [index.md](index.md) to look up the index of some paper.
 - Simultaneous Estimations of Joint Angle and Torque in Interactions with Environments Using EMG
 - High-Density Electromyography Based Control of Robotic Devices: On the Execution of Dexterous Manipulation Tasks
 - The Role of the Control Framework for Continuous Teleoperation of a Brain�Machine Interface-Driven Mobile Robot (I)
- 
+
 
 ## Tendon/Wire Mechanism
 - Asynchronous and Decoupled Control of the Position and the Stiffness of a Spatial RCM Tensegrity Mechanism for Needle Manipulation
@@ -1572,7 +1574,7 @@ You could use [index.md](index.md) to look up the index of some paper.
 - Coordinated Particle Relocation Using Finite Static Friction with Boundary Walls
 - Robust Capture of Unknown Objects with a Highly Under-Actuated Gripper
 - TWISTER Hand: Underactuated Robotic Gripper Inspired by Origami Twisted Tower (I)
- 
+
  
 
 ## Applications
@@ -1655,7 +1657,7 @@ You could use [index.md](index.md) to look up the index of some paper.
 - Skeleton-Based Conditionally Independent Gaussian Process Implicit Surfaces for Fusion in Sparse to Dense 3D Reconstruction
 - Motion Estimation in Occupancy Grid Maps in Stationary Settings Using Recurrent Neural Networks
 - A Divide and Conquer Method for 3D Registration of Inhomogeneous, Partially Overlapping Scans with Fourier Mellin SOFT (FMS)
- 
+
 - Estimating Motion Uncertainty with Bayesian ICP
 - Actively Mapping Industrial Structures with Information Gain-Based Planning on a Quadruped Robot
 - Efficient Covisibility-Based Image Matching for Large-Scale SfM
@@ -1693,10 +1695,10 @@ You could use [index.md](index.md) to look up the index of some paper.
 - Unified Push Recovery Fundamentals: Inspiration from Human Study
 - Nonholonomic Virtual Constraint Design for Variable-Incline Bipedal Robotic Walking
 - MPC for Humanoid Gait Generation: Stability and Feasibility (I)
- 
+
 - A Robust Walking Controller Based on Online Optimization of Ankle, Hip, and Stepping Strategies (I)
- 
- 
+
+
 - Passive Dynamic Balancing and Walking in Actuated Environments
 - Biped Stabilization by Linear Feedback of the Variable-Height Inverted Pendulum Model
 - Stability Criteria of Balanced and Steppable Unbalanced States for Full-Body Systems with Implications in Robotic and Human Gait
@@ -1778,9 +1780,9 @@ You could use [index.md](index.md) to look up the index of some paper.
 - A Novel End-Effector Robot System Enabling to Monitor Upper-Extremity Posture During Robot-Aided Reaching Movements
 - Optimal Design of a Novel 3-DOF Orientational Parallel Mechanism for Pelvic Assistance on a Wheelchair: An Approach Based on Kinematic Geometry and Screw Theory
 - Using Human Ratings for Feedback Control: A Supervised Learning Approach with Application to Rehabilitation Robotics (I)
- 
+
 - Compliant Humanoids Moving Toward Rehabilitation Applications: Transparent Integration of Real-Time Control, Whole-Body Motion Generation, and Virtual Reality (I)
- 
+
 - Data-Driven Reinforcement Learning for Walking Assistance Control of a Lower Limb Exoskeleton with Hemiplegic Patients
 - On the Effects of Visual Anticipation of Floor Compliance Changes on Human Gait: Towards Model-Based Robot-Assisted Rehabilitation
 - A Visual Positioning System for Indoor Blind Navigation
@@ -1799,7 +1801,7 @@ You could use [index.md](index.md) to look up the index of some paper.
 - Robustness in Human Manipulation of Dynamically Complex Objects through Control Contraction Metrics
 - Cooperative Human-Robot Grasping with Extended Contact Patches
 - The InSight Crutches: Analyzing the Role of Arm Support During Robot-Assisted Leg Movements (I)
- 
+
 - Cognitive and Motor Compliance in Intentional Human-Robot Interaction
 - Controlling an Upper-Limb Exoskeleton by EMG Signal While Carrying Unknown Load
 - Learning Grasping Points for Garment Manipulation in Robot-Assisted Dressing
@@ -1810,14 +1812,14 @@ You could use [index.md](index.md) to look up the index of some paper.
 
 ## Telerobotics and Teleoperation
 - Adaptive 
- 
+
 - Tactile Telerobots for Dull, Dirty, Dangerous, and Inaccessible Tasks
 - A Teleoperation Framework for Mobile Robots Based on Shared Control
 - A Novel Orientability Index and the Kinematic Design of the RemoT-ARM: A Haptic Master with Large and Dexterous Workspace
 - Enhancing the Transparency by Onomatopoeia for Passivity-Based Time-Delayed Teleoperation
 - RAVEN-S: Design and Simulation of a Robot for Teleoperated Microgravity Rodent Dissection under Time Delay
- 
- 
+
+
 - Closing the Force Loop to Enhance Transparency in Time-Delayed Teleoperation
 - Evaluation of an Exoskeleton-Based Bimanual Teleoperation Architecture with Independently Passivated Slave Devices
 - Hand-Worn Haptic Interface for Drone Teleoperation
@@ -1885,7 +1887,7 @@ You could use [index.md](index.md) to look up the index of some paper.
 - Development of a Wheeled Wall-Climbing Robot with a Shape-Adaptive Magnetic Adhesion Mechanism
 - Towards More Possibilities: Motion Planning and Control for Hybrid Locomotion of Wheeled-Legged Robots
 - Navigation for Legged Mobility: Dynamic Climbing (I)
- 
+
 
 ## Failure Detection and Recovery
 - Algebraic Fault Detection and Identification for Rigid Robots
@@ -1962,7 +1964,7 @@ You could use [index.md](index.md) to look up the index of some paper.
 - Control Synthesis from Linear Temporal Logic Specifications Using Model-Free Reinforcement Learning
 - A Framework for Formal Verification of Behavior Trees with Linear Temporal Logic
 - Safety Assessment of Collaborative Robotics through Automated Formal Verification (I)
- 
+
 
 ## Parallel Robots
 - R-Min: A Fast Collaborative Underactuated Parallel Robot for Pick-And-Place Operations
@@ -1977,10 +1979,10 @@ You could use [index.md](index.md) to look up the index of some paper.
 - Development of Body Rotational Wheeled Robot and Its Verification of Effectiveness
 - Error Bounds for PD-Controlled Mechanical Systems under Bounded Disturbances Using Interval Arithmetic
 - Hardware-In-The-Loop Iterative Optimal Feedback Control without Model-Based Future Prediction (I)
- 
+
 - Analysis and Synthesis of Underactuated Compliant Mechanisms Based on Transmission Properties of Motion and Force (I)
- 
- 
+
+
 - Radar Sensors in Collaborative Robotics: Fast Simulation and Experimental Validation
 
 ## Model Learning for Control
@@ -1990,7 +1992,7 @@ You could use [index.md](index.md) to look up the index of some paper.
 - Online Simultaneous Semi-Parametric Dynamics Model Learning
 - Sufficiently Accurate Model Learning
 - Active Learning of Dynamics for Data-Driven Control Using Koopman Operators (I)
- 
+
 
 ## Mobile Manipulation
 - Towards Plan Transformations for Real-World Mobile Fetch and Place
